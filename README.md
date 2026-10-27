@@ -1,9 +1,5 @@
 # E-commerce Data Analysis
 
-### 📊 Interactive Tableau Dashboard
-
-**[View Sales Performance Dashboard on Tableau Public](https://public.tableau.com/app/profile/anastasiia.pavlenko/viz/SalesPerformanceOverview_17914707526710/Dashboard1#1)**
-
 ## Project Overview
 
 This project focuses on analyzing e-commerce sales performance, user behavior, traffic sources, and purchasing patterns using Python and statistical methods.
@@ -11,6 +7,17 @@ This project focuses on analyzing e-commerce sales performance, user behavior, t
 The analysis explores the relationships between website traffic, sales revenue, device types, geographic regions, and customer characteristics to identify key business insights.
 
 The project also includes an interactive Tableau dashboard for visualizing sales performance.
+
+## Project Notebooks
+
+The analysis is available in two languages:
+
+- [English version](ecommerce_data_analysis_eng.ipynb)
+- [Ukrainian version](ecommerce_data_analysis_ua.ipynb)
+
+## Tableau Dashboard
+
+[View on Tableau Public](https://public.tableau.com/app/profile/anastasiia.pavlenko/viz/SalesPerformanceOverview_17914707526710/Dashboard1#1)
 
 ## Tools & Technologies
 
